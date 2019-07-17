@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/statnett/vue-plotly.git"
+    "url": "https://github.com/russjohnson09/vue-plotly.git"
   },
   "files": [
     "src",
@@ -28,7 +28,7 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.5",
-    "plotly.js": "^1.35.0"
+    "plotly.js-dist": "^1.48.3"
   },
   "devDependencies": {
     "@vue/test-utils": "^1.0.0-beta.12",
